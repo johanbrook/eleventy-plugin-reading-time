@@ -23,7 +23,7 @@ module.exports = (eleventyConfig) => {
 Now you can use the `readingTime` filter in your Nunjuck templates:
 
 ```html
-<span>About {{ someTextContent | readingTime } reading time}</span>
+<span>About {{ someTextContent | readingTime }} reading time</span>
 ```
 
 prints
