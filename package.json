@@ -13,6 +13,7 @@
   },
   "keywords": [
     "eleventy",
+    "eleventy-plugin",
     "plugin",
     "reading",
     "time",
